@@ -7,7 +7,7 @@ Skills: Tailwind CSS / REACT / NextJS / JS / HTML / CSS
 
 - 🌱 I’m currently working rebuilding and improving https://quote-leaf.vercel.app/. 
 - 📫 How to reach me: [SvennyBOI]#1822 on Discord and @ThinkingSven on Twitter  
-- 🌇 Fun fact: I love sunset's 
+- 🌇 Fun fact: I love sunsets
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinkingSven&show_icons=true&theme=onedark)
 
