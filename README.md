@@ -2,7 +2,7 @@
 # Hello.
 ### My name is Sven
 
-I'm Sven from Austria, im 16 years old and I spend my free time with Design, Memes and Web Development. I really enjoy learning languages and frameworks like React, NextJS and Tailwind. You can check out my Twitter: https://twitter.com/ThinkingSven
+I'm from Austria, 16 years old and I spend my free time with Design, Memes and Web Development. I really enjoy learning languages and frameworks like React, NextJS and Tailwind. You can check out my Twitter: https://twitter.com/ThinkingSven
 
 Skills: Tailwind CSS / REACT / NextJS / JS / HTML / CSS
 
